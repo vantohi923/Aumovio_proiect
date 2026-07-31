@@ -26,7 +26,7 @@
 #define TS_MAXX 3800
 #define TS_MAXY 3800
 
-// Color Palette (RGB565 format)
+
 #define COLOR_BG        0x10A2 // Deep Charcoal
 #define COLOR_HEADER    0x0000 // Black
 #define COLOR_CARD      0x29A6 // Card Fill
